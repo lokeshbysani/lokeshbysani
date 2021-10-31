@@ -44,8 +44,6 @@
 
 <a href = "https://www.linkedin.com/in/lokeshbysani/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/lokesh_bysani"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "lokesh.bysanib@gmail.com">
-<img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>
 </p>
 
 ## ❤ Views and Followers
