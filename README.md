@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lokesh Bysani</h1>
-<h3 align="center">I'm a passionate Intelligent Automation Developer from India.</h3>
+<h5 align="center">I'm a passionate Intelligent Automation developer working at Autodesk. My day-to-day work revolves around building Automations for various interesting problems and deploying them to production, at scale. I'm open to collaborating on interesting Open source projects.</h5>
 
 
 ## 🙋‍♂️ About Me
