@@ -9,31 +9,49 @@
 - 🔭 I’m currently working on **UiPath Platform**
 
 - 🌱 I’m currently learning **AWS** and preparing for **AWS Certified Developer Associate** Certification.
-
-- 👨‍💻 I do write occassionally at **[Hashnode](https://lokeshbysanib.hashnode.dev/)**
+<!---
+- 👨‍💻 I do write occassionally at **[Hashnode](https://lokeshbysanib.hashnode.dev/)**-->
 - 📫 How to reach me **lokesh.bysanib@gmail.com**
 - 💬 Ask me about RPA and UiPath related stuff
 
 
+## Skill Set :muscle:
+These are some of the major technologies that I use or have worked on in the past:
 
-## 🚀 Languages and Tools:
+**RPA Tools**
+
  [![UiPath](https://img.shields.io/badge/-UiPath-White?style=flat-square)](https://www.UiPath.com/)
+ [![Power Automate](https://img.shields.io/badge/-Power%20Automate-lightblue?logo=microsoft&style=flat)](https://powerautomate.microsoft.com/en-us/)
+
+
+**Programming Languages**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/-Excel%20VBA-lightblue?logo=microsoft&style=flat)
+![](https://img.shields.io/badge/-WebServices%20&%20API-White)
+![](https://img.shields.io/badge/-JSON-lightblue)
 
+
+**Databases**
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
+**Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Tools**
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+**Supporting Tools**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
