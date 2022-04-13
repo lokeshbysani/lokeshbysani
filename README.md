@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **UiPath Platform**
 
-- 🌱 I’m currently learning **AWS** and preparing for **AWS Certified Developer Associate** Certification.
+- 🌱 I’m currently learning **Javascript and AWS** and preparing for **AWS Certified Developer Associate** Certification.
 <!---
 - 👨‍💻 I do write occassionally at **[Hashnode](https://lokeshbysanib.hashnode.dev/)**-->
 - 📫 How to reach me **lokesh.bysanib@gmail.com**
